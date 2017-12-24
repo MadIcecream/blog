@@ -1,0 +1,30 @@
+# site title
+title: 主妇的游戏厨房
+
+# user name or organization name
+user: MadIcecream
+
+# issue repository
+repository: blog
+
+# multi-author
+authors:
+
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token:  5#05dc4c0d8b32b0d3bebf35eed1a0a6069afab84 
+
+# posts per page
+perpage: 10
+
+
+# advance config
+
+# organization repository (?)
+organization: false
+
+# post order
+# order by create time" or "update time"
+# 'UPDATED_AT' or 'CREATED_AT'
+order: 'UPDATED_AT'
